@@ -1,0 +1,263 @@
+******* Name *******                                                  | ******* Situation *******     
+_________________________________________________________________________________________________
+01-python-crash-course                                                | 
+    01-Python Crash Course.ipynb                                      | 
+    02-Python Crash Course Exercises.ipynb                            | 
+    03-Python Crash Course Exercises - Solutions.ipynb                | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+02-numpy                                                              | 
+    00-NumPy-Arrays.ipynb                                             | 
+    01-NumPy-Indexing-and-Selection.ipynb                             | 
+    02-NumPy-Operations.ipynb                                         | 
+    03-NumPy-Exercises.ipynb                                          | 
+    04-NumPy-Exercises-Solutions.ipynb                                | 
+    axis_logic.png                                                    | 
+    numpy_indexing.png                                                | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+03-pandas                                                             | 
+    00-Series.ipynb                                                   | 
+    01-DataFrames.ipynb                                               | 
+    02-Conditional-Filtering.ipynb                                    | 
+    03-Useful-Methods.ipynb                                           | 
+    04-Missing-Data.ipynb                                             | 
+    05-Groupby-Operations-and-MultiIndex.ipynb                        | 
+    06-Combining-DataFrames.ipynb                                     | 
+    07-Text-Methods.ipynb                                             | 
+    08-Time-Methods.ipynb                                             | 
+    09-Inputs-and-Outputs.ipynb                                       | 
+    10-Pivot-Tables.ipynb                                             | 
+    11-Pandas-Project-Exercise .ipynb                                 | 
+    12-Pandas-Project-Exercise-Solution.ipynb                         | 
+    example.csv                                                       | 
+    example.xlsx                                                      | 
+    hotel_booking_data.csv                                            | 
+    movie_scores.csv                                                  | 
+    mpg.csv                                                           | 
+    my_excel_file.xlsx                                                | 
+    new_file.csv                                                      | 
+    newfile.csv                                                       | 
+    new_workbook.xlsx                                                 | 
+    __pycache__                                                       | 
+    reshaping_pivot.png                                               | 
+    RetailSales_BeerWineLiquor.csv                                    | 
+    Sales_Funnel_CRM.csv                                              | 
+    sample_table.html                                                 | 
+    simple.html                                                       | 
+    tips.csv                                                          | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+04-matplotlib                                                         | 
+    00-Matplotlib-Basics.ipynb                                        | 
+    01-Matplotlib-Figures.ipynb                                       | 
+    02-Matplotlib-SubPlots.ipynb                                      | 
+    03-Matplotlib-Styling-Plots.ipynb                                 | 
+    04-Matplotlib Exercises .ipynb                                    | 
+    05-Matplotlib Exercises - Solutions.ipynb                         | 
+    06-Additional-Matplotlib-Commands-NO_VIDEO.ipynb                  | 
+    example.png                                                       | 
+    figure.png                                                        | 
+    myfirstplot.png                                                   | 
+    new_figure.png                                                    | 
+    new_subplots.png                                                  | 
+    subplots.png                                                      | 
+    test.png                                                          | 
+    Untitled.ipynb                                                    | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+05-seaborn                                                            | 
+    00-Scatter-Plots.ipynb                                            | 
+    01-Distribution-Plots.ipynb                                       | 
+    02-Categorical-Plots-Stat-Estimation.ipynb                        | 
+    03-Categorical-Plots-Distributions.ipynb                          | 
+    04-Comparison-Plots.ipynb                                         | 
+    05-Seaborn-Grids.ipynb                                            | 
+    06-Matrix-Plots.ipynb                                             | 
+    07-Seaborn-Exercise.ipynb                                         | 
+    08-Seaborn-Exercise-Solutions.ipynb                               | 
+    application_record.csv                                            | 
+    catplot_solution.png                                              | 
+    country_table.csv                                                 | 
+    diamonds.csv                                                      | 
+    DistPlot_solution.png                                             | 
+    dm_office_sales.csv                                               | 
+    example_scatter.jpg                                               | 
+    heatmap_solution.png                                              | 
+    my_plot.jpg                                                       | 
+    StudentsPerformance.csv                                           | 
+    task_one.jpg                                                      | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+06-capstone-project                                                   | 
+    00-Capstone-Project.ipynb                                         | 
+    01-Capstone-Project-Solutions .ipynb                              | 
+    all_sites_scores.csv                                              | 
+    fandango_scrape.csv                                               | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+07-overview-of-machine-learning                                       | 
+    Template.ipynb                                                    | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+08-linear-regression-models                                           | 
+    00-Intro-to-Simple-Linear-Regression.ipynb                        | 
+    01-Linear-Regression-with-Scitkit-Learn.ipynb                     | 
+    02-Polynomial-Regression.ipynb                                    | 
+    03-Regularization-Ridge-Lasso-ElasticNet.ipynb                    | 
+    04-Linear-Regression-Project-DataSet .ipynb                       | 
+    Advertising.csv                                                   | 
+    anscombes_quartet1.csv                                            | 
+    anscombes_quartet2.csv                                            | 
+    anscombes_quartet4.csv                                            | 
+    ascombes_quartet2.csv                                             | 
+    final_converter.joblib                                            | 
+    final_poly_model.joblib                                           | 
+    final_sales_model.joblib                                          | 
+    poly_converter.joblib                                             | 
+    sales_model.joblib                                                | 
+    sales_poly_model.joblib                                           | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+09-feature-engineering                                                | 
+    00-Dealing-with-Outliers.ipynb                                    | 
+    01-Dealing-with-Missing-Data.ipynb                                | 
+    02-Dealing-with-Categorical-Data.ipynb                            | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+10-cross-val-and-linreg-project                                       | 
+    00-Cross-Validation.ipynb                                         | 
+    01-Grid-Search.ipynb                                              | 
+    02-Linear-Regression-Project-Exercise.ipynb                       | 
+    03-Linear-Regression-Project-Exercise-Solutions.ipynb             | 
+    grid_search_cross_validation.png                                  | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+11-logistic-regression-models                                         | 
+    00-Logistic-Regression.ipynb                                      | 
+    01-Multi-Class-Logistic-Regression.ipynb                          | 
+    02-Logistic-Regression-Project-Exercise .ipynb                    | 
+    03-Logistic-Regression-Project-Exercise-Solution.ipynb            | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+12-k-nearest-neighbors                                                | 
+    00-KNN-Classification.ipynb                                       | 
+    01-KNN-Exercise .ipynb                                            | 
+    02-KNN-Exercise-Solutions.ipynb                                   | 
+    mine.jpg                                                          | 
+    sonar.jpg                                                         | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+13-support-vector-machines                                            | 
+    00-SVM-Classification.ipynb                                       | 
+    01-SVM-Regression.ipynb                                           | 
+    02-SVM-Project-Exercise.ipynb                                     | 
+    03-SVM-Project-Exercise-Solutions.ipynb                           | 
+    __pycache__                                                       | 
+    svm_margin_plot.py                                                | 
+    Types_of_concrete_slump.jpg                                       | 
+    wine.jpg                                                          | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+14-decision-trees                                                     | 
+    00-Decision-Trees.ipynb                                           | 
+    penguin.jpg                                                       | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+15-random-forests                                                     | 
+    00-Random-Forest-Classification.ipynb                             | 
+    01-Random-Forest-Regression.ipynb                                 | 
+    boring.jpg                                                        | 
+    penguin.jpg                                                       | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+16-boosted-trees                                                      | 
+    00-AdaBoost.ipynb                                                 | 
+    01-Gradient-Boosting.ipynb                                        | 
+    mushroom.jpg                                                      | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+17-supervised-learning-capstone-project                               | 
+    00-Sup-Learning-Capstone-Tree-Methods .ipynb                      | 
+    01-Sup-Learning-Capstone-Tree-Methods-SOLNs.ipynb                 | 
+    cplot.png                                                         | 
+    fig10.png                                                         | 
+    fig11.png                                                         | 
+    fig1.png                                                          | 
+    fig2.png                                                          | 
+    fig3.png                                                          | 
+    fig5.png                                                          | 
+    fig6.png                                                          | 
+    fig7.png                                                          | 
+    fig9.png                                                          | 
+    figbar.png                                                        | 
+    hugetree.png                                                      | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+18-naive-bayes-and-nlp                                                | 
+    00-Feature-Extraction-From-Text.ipynb                             | 
+    01-Text-Classification.ipynb                                      | 
+    02-Text-Classification-Assessment .ipynb                          | 
+    03-Text-Classification-Assessment-Solution.ipynb                  | 
+    One.txt                                                           | 
+    Two.txt                                                           | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+19-unsupervised-learning-overview                                     | 
+    Blank on Purpose.ipynb                                            | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+20-kmeans-clustering                                                  | 
+    00-Kmeans-Clustering.ipynb                                        | 
+    01-Kmeans-Color-Quantization.ipynb                                | 
+    02-Kmeans-Clustering-Project-Exercise.ipynb                       | 
+    03-Kmeans-Clustering-Project-Solutions.ipynb                      | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+21-hierarchical-clustering                                            | 
+    00-Hierarchical-Clustering.ipynb                                  | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+data                                                                  | 
+    Advertising.csv                                                   | 
+    airline_tweets.csv                                                | 
+    AMES_Final_DF.csv                                                 | 
+    Ames_Housing_Data.csv                                             | 
+    Ames_Housing_Feature_Description.txt                              | 
+    Ames_NO_Missing_Data.csv                                          | 
+    Ames_outliers_removed.csv                                         | 
+    bank-full.csv                                                     | 
+    cement_slump.csv                                                  | 
+    census_income_data.csv                                            | 
+    CIA_Country_Facts.csv                                             | 
+    cluster_mpg.csv                                                   | 
+    country_iso_codes.csv                                             | 
+    credit_default_risk.csv                                           | 
+    data_banknote_authentication.csv                                  | 
+    data-dictionary.csv                                               | 
+    example.csv                                                       | 
+    gene_expression.csv                                               | 
+    hearing_test.csv                                                  | 
+    heart.csv                                                         | 
+    iris.csv                                                          | 
+    mouse_viral_study.csv                                             | 
+    moviereviews.csv                                                  | 
+    movie_scores.csv                                                  | 
+    mpg.csv                                                           | 
+    mushrooms.csv                                                     | 
+    palm_trees.jpg                                                    | 
+    pattern_test_results.csv                                          | 
+    penguins_lter.csv                                                 | 
+    penguins_size.csv                                                 | 
+    players_20.csv                                                    | 
+    RetailSales_BeerWineLiquor.csv                                    | 
+    rock_density_xray.csv                                             | 
+    sex_height_weight.csv                                             | 
+    sonar.all-data.csv                                                | 
+    Telco-Customer-Churn.csv                                          | 
+    tips.csv                                                          | 
+    wine_fraud.csv                                                    | 
+    winequality-red.csv                                               | 
+    winequality-white.csv                                             | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------

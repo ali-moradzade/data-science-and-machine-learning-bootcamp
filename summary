@@ -1,19 +1,19 @@
 ******* Name *******                                                  | ******* Situation *******     
 _________________________________________________________________________________________________
 01-python-crash-course                                                | 
-    01-Python Crash Course.ipynb                                      | 
-    02-Python Crash Course Exercises.ipynb                            | 
-    03-Python Crash Course Exercises - Solutions.ipynb                | 
+    01-Python Crash Course.ipynb                                      | C 2022/02/16
+    02-Python Crash Course Exercises.ipynb                            | C 2022/02/16
+    03-Python Crash Course Exercises - Solutions.ipynb                | C 2022/02/16
                                                                       | 
 -------------------------------------------------------------------------------------------------
 02-numpy                                                              | 
-    00-NumPy-Arrays.ipynb                                             | 
-    01-NumPy-Indexing-and-Selection.ipynb                             | 
-    02-NumPy-Operations.ipynb                                         | 
-    03-NumPy-Exercises.ipynb                                          | 
-    04-NumPy-Exercises-Solutions.ipynb                                | 
-    axis_logic.png                                                    | 
-    numpy_indexing.png                                                | 
+    00-NumPy-Arrays.ipynb                                             | C 2022/02/17
+    01-NumPy-Indexing-and-Selection.ipynb                             | C 2022/02/17
+    02-NumPy-Operations.ipynb                                         | C 2022/02/17
+    03-NumPy-Exercises.ipynb                                          | C 2022/02/17
+    04-NumPy-Exercises-Solutions.ipynb                                | C 2022/02/17
+    axis_logic.png                                                    | C 2022/02/17
+    numpy_indexing.png                                                | C 2022/02/17
                                                                       | 
 -------------------------------------------------------------------------------------------------
 03-pandas                                                             | 

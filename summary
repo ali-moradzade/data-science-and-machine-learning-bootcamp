@@ -17,35 +17,35 @@ ________________________________________________________________________________
                                                                       | 
 -------------------------------------------------------------------------------------------------
 03-pandas                                                             | 
-    00-Series.ipynb                                                   | 
-    01-DataFrames.ipynb                                               | 
-    02-Conditional-Filtering.ipynb                                    | 
-    03-Useful-Methods.ipynb                                           | 
-    04-Missing-Data.ipynb                                             | 
-    05-Groupby-Operations-and-MultiIndex.ipynb                        | 
-    06-Combining-DataFrames.ipynb                                     | 
-    07-Text-Methods.ipynb                                             | 
-    08-Time-Methods.ipynb                                             | 
-    09-Inputs-and-Outputs.ipynb                                       | 
-    10-Pivot-Tables.ipynb                                             | 
-    11-Pandas-Project-Exercise .ipynb                                 | 
-    12-Pandas-Project-Exercise-Solution.ipynb                         | 
-    example.csv                                                       | 
-    example.xlsx                                                      | 
-    hotel_booking_data.csv                                            | 
-    movie_scores.csv                                                  | 
-    mpg.csv                                                           | 
-    my_excel_file.xlsx                                                | 
-    new_file.csv                                                      | 
-    newfile.csv                                                       | 
-    new_workbook.xlsx                                                 | 
-    __pycache__                                                       | 
-    reshaping_pivot.png                                               | 
-    RetailSales_BeerWineLiquor.csv                                    | 
-    Sales_Funnel_CRM.csv                                              | 
-    sample_table.html                                                 | 
-    simple.html                                                       | 
-    tips.csv                                                          | 
+    00-Series.ipynb                                                   | C 2022/02/17
+    01-DataFrames.ipynb                                               | C 2022/02/17
+    02-Conditional-Filtering.ipynb                                    | C 2022/02/17
+    03-Useful-Methods.ipynb                                           | C 2022/02/18
+    04-Missing-Data.ipynb                                             | C 2022/02/18
+    05-Groupby-Operations-and-MultiIndex.ipynb                        | C 2022/02/18
+    06-Combining-DataFrames.ipynb                                     | C 2022/02/19
+    07-Text-Methods.ipynb                                             | C 2022/02/19
+    08-Time-Methods.ipynb                                             | C 2022/02/20
+    09-Inputs-and-Outputs.ipynb                                       | C 2022/02/22
+    10-Pivot-Tables.ipynb                                             | C 2022/02/22
+    11-Pandas-Project-Exercise .ipynb                                 | C 2022/02/22
+    12-Pandas-Project-Exercise-Solution.ipynb                         | C 2022/02/22
+    example.csv                                                       | C 
+    example.xlsx                                                      | C 
+    hotel_booking_data.csv                                            | C 
+    movie_scores.csv                                                  | C 
+    mpg.csv                                                           | C 
+    my_excel_file.xlsx                                                | C 
+    new_file.csv                                                      | C 
+    newfile.csv                                                       | C 
+    new_workbook.xlsx                                                 | C 
+    __pycache__                                                       | C 
+    reshaping_pivot.png                                               | C 
+    RetailSales_BeerWineLiquor.csv                                    | C 
+    Sales_Funnel_CRM.csv                                              | C 
+    sample_table.html                                                 | C 
+    simple.html                                                       | C 
+    tips.csv                                                          | C 
                                                                       | 
 -------------------------------------------------------------------------------------------------
 04-matplotlib                                                         | 
